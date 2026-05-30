@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/my-only-desire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for My Only Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/my-only-desire/) |
+| **Get License** | [Secure Licensing Rights for My Only Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/my-only-desire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers glowing in the quiet of the room
+> Your shadow dancing near me through the midnight silver gloom
+> I want to pull you closer where the breathing falls so slow
+> You are the only fire that my heart will ever know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
