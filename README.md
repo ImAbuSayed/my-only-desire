@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/my-only-desire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for My Only Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/my-only-desire/) |
+| **Get License** | [Music Rights & Licensing for My Only Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/my-only-desire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `79e35bd8e9274c1a95170aa0a105f196275dc180bdf621d3d2aecea13f414701` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
